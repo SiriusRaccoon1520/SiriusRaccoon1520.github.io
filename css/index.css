@@ -3754,3 +3754,9 @@ pre .coffeescript .title {
   --primary-weak: #f06462;
   --primary-weak-50: rgba(240, 100, 98, 0.5);
 }
+.gallery img {
+  max-width: 320px;
+  border-radius: 12px;
+  margin: 8px;
+  box-shadow: 0 4px 12px #e35c5c22;
+}
